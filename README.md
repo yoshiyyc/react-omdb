@@ -3,7 +3,7 @@
 ### React OMDb Project
 
 
-<img src="https://imgur.com/INZJgda.jpg" width="400">
+<img src="https://imgur.com/lOkWaEQ.jpg" width="400">
 
 [Demo](https://yoshiyyc.github.io/react-omdb/) 
 * A React project built based on OMDb API (for open movie database)
