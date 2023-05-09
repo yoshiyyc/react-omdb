@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/yoshiyyc/react-omdb/static/css/main.da5188d6.css",
-    "main.js": "/yoshiyyc/react-omdb/static/js/main.30c918f0.js",
-    "static/js/787.d2303982.chunk.js": "/yoshiyyc/react-omdb/static/js/787.d2303982.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/yoshiyyc/react-omdb/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/yoshiyyc/react-omdb/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
-    "index.html": "/yoshiyyc/react-omdb/index.html",
-    "main.da5188d6.css.map": "/yoshiyyc/react-omdb/static/css/main.da5188d6.css.map",
-    "main.30c918f0.js.map": "/yoshiyyc/react-omdb/static/js/main.30c918f0.js.map",
-    "787.d2303982.chunk.js.map": "/yoshiyyc/react-omdb/static/js/787.d2303982.chunk.js.map"
+    "main.css": "/react-omdb/static/css/main.e4044b33.css",
+    "main.js": "/react-omdb/static/js/main.98d71fb6.js",
+    "static/js/787.d2303982.chunk.js": "/react-omdb/static/js/787.d2303982.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/react-omdb/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/react-omdb/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/react-omdb/index.html",
+    "main.e4044b33.css.map": "/react-omdb/static/css/main.e4044b33.css.map",
+    "main.98d71fb6.js.map": "/react-omdb/static/js/main.98d71fb6.js.map",
+    "787.d2303982.chunk.js.map": "/react-omdb/static/js/787.d2303982.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da5188d6.css",
-    "static/js/main.30c918f0.js"
+    "static/css/main.e4044b33.css",
+    "static/js/main.98d71fb6.js"
   ]
 }
