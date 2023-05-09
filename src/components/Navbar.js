@@ -2,9 +2,9 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
-    <header className="border-bottom">
+    <header className="bg-dark border-bottom">
       <div className="container">
-        <Link className="h1 d-block my-2 text-decoration-none link-dark" to="">
+        <Link className="h1 d-block m-0 py-3 text-decoration-none" to="">
           OMDB Project
         </Link>
       </div>

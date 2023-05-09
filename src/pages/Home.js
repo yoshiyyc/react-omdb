@@ -77,7 +77,7 @@ function Home() {
           </select>
         </div>
         <button
-          className="btn btn-outline-primary col col-md-1 my-4 m-md-3 ms-md-5"
+          className="btn btn-primary col col-md-1 my-4 m-md-3 ms-md-5"
           type="button"
           onClick={handleSubmit}
         >

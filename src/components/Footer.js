@@ -1,8 +1,10 @@
 function Footer() {
   return (
-    <footer className="border-top">
+    <footer className="bg-dark border-top">
       <div className="container">
-        <p className="my-2 text-center text-md-end">For project purpose</p>
+        <p className="m-0 py-3 text-center text-md-end text-light">
+          For project purpose
+        </p>
       </div>
     </footer>
   );
