@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-omdb/static/css/main.c31ae3d9.css",
-    "main.js": "/react-omdb/static/js/main.cf3b44c6.js",
+    "main.js": "/react-omdb/static/js/main.282002f2.js",
     "static/js/787.d2303982.chunk.js": "/react-omdb/static/js/787.d2303982.chunk.js",
     "static/media/bootstrap-icons.woff?": "/react-omdb/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/bootstrap-icons.woff2?": "/react-omdb/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
     "index.html": "/react-omdb/index.html",
     "main.c31ae3d9.css.map": "/react-omdb/static/css/main.c31ae3d9.css.map",
-    "main.cf3b44c6.js.map": "/react-omdb/static/js/main.cf3b44c6.js.map",
+    "main.282002f2.js.map": "/react-omdb/static/js/main.282002f2.js.map",
     "787.d2303982.chunk.js.map": "/react-omdb/static/js/787.d2303982.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c31ae3d9.css",
-    "static/js/main.cf3b44c6.js"
+    "static/js/main.282002f2.js"
   ]
 }
