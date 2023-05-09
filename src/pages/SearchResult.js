@@ -27,7 +27,7 @@ function SearchResult() {
     try {
       setIsLoading(true);
       const res = await axios.get(
-        `http://www.omdbapi.com/?apikey=c32e4c87${
+        `https://www.omdbapi.com/?apikey=c32e4c87${
           titleQuery + yearQuery + typeQuery
         }&page=${currentPage}`
       );
